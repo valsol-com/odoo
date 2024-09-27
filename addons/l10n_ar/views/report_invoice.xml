@@ -181,7 +181,7 @@
         <div id="informations" position="replace">
             <div id="informations" class="row mt8 mb8">
                 <div class="col-6">
-
+                 <br/>
                     <!-- IDENTIFICACION (ADQUIRIENTE-LOCATARIO-PRESTARIO) -->
 
                     <!-- (14) Apellido uy Nombre: Denominicacion o Razon Soclial -->
@@ -201,7 +201,7 @@
 
                 </div>
                 <div class="col-6">
-
+                    <br/>
                     <t t-if="o.invoice_date_due">
                         <strong>Due Date: </strong>
                         <span t-field="o.invoice_date_due"/>
