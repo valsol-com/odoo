@@ -656,7 +656,7 @@ msgstr "加入組合規則"
 #: code:addons/web/static/src/views/kanban/kanban_column_quick_create.xml:0
 #, python-format
 msgid "Add column"
-msgstr "添加列"
+msgstr "加入直欄"
 
 #. module: web
 #. odoo-javascript
@@ -2452,7 +2452,7 @@ msgstr ""
 #. module: web
 #: model:ir.model.fields,field_description:web.field_base_document_layout__font
 msgid "Font"
-msgstr "字體"
+msgstr "字型"
 
 #. module: web
 #. odoo-javascript
@@ -4731,7 +4731,7 @@ msgstr "搜尋欄位⋯"
 #: code:addons/web/static/src/core/commands/default_providers.js:0
 #, python-format
 msgid "Search for a command..."
-msgstr "搜索命令..."
+msgstr "搜尋指令⋯"
 
 #. module: web
 #. odoo-javascript
@@ -5535,7 +5535,7 @@ msgstr "在這個系統上找不到Wkhtmltopdf。報告將以HTML顯示。"
 #: code:addons/web/static/src/views/form/form_status_indicator/form_status_indicator.xml:0
 #, python-format
 msgid "Unable to save"
-msgstr ""
+msgstr "未能儲存"
 
 #. module: web
 #. odoo-javascript

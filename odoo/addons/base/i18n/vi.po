@@ -841,12 +841,9 @@ msgstr ""
 #: model:ir.module.module,description:base.module_l10n_tr_reports
 msgid ""
 "\n"
-"        Accounting reports for Turkey\n"
+"        Accounting reports for Türkiye\n"
 "    "
 msgstr ""
-"\n"
-"        Báo cáo kế toán cho Thổ Nhĩ Kỳ\n"
-"    "
 
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_uk_reports
@@ -905,8 +902,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"        Cho phép khách hàng Lên lịch Cuộc hẹn thông qua Cổng thông tin\n"
-"    "
+"Cho phép khách hàng Lên lịch hẹn thông qua Cổng thông tin"
 
 #. module: base
 #: model:ir.module.module,description:base.module_l10n_us_1099
@@ -1037,7 +1033,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"        Phân hệ cầu nối giữa hợp đồng phụ Sản xuất và Chất lượng\n"
+"        Phân hệ cầu nối giữa gia công Sản xuất và Chất lượng\n"
 "    "
 
 #. module: base
@@ -1048,7 +1044,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"        Phân hệ cầu nối giữa hợp đồng phụ Sản xuất và Sửa chữa\n"
+"        Phân hệ cầu nối giữa gia công Sản xuất và Sửa chữa\n"
 "    "
 
 #. module: base
@@ -1641,7 +1637,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"        Phân hệ cầu nối này thêm một số nút thông minh giữa Mua hàng và Hợp đồng phụ\n"
+"        Phân hệ cầu nối này thêm một số nút thông minh giữa Mua hàng và Gia công\n"
 "    "
 
 #. module: base
@@ -1652,7 +1648,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"        Phân hệ cầu nối này cho phép quản lý hợp đồng phụ với phân hệ dropshipping.\n"
+"        Phân hệ cầu nối này cho phép quản lý gia công với phân hệ dropshipping.\n"
 "    "
 
 #. module: base
@@ -1663,7 +1659,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"        Phân hệ cầu nối này cho phép quản lý hợp đồng phụ với định giá.\n"
+"        Phân hệ cầu nối này cho phép quản lý gia công với định giá.\n"
 "    "
 
 #. module: base
@@ -3349,7 +3345,7 @@ msgid ""
 "Add Subcontracting information in Cost Analysis Report and The Production Analysis\n"
 msgstr ""
 "\n"
-"Bổ sung thông tin Thầu phụ trong Báo cáo Phân tích Chi phí và Phân tích Sản xuất\n"
+"Bổ sung thông tin Gia công trong Báo cáo Phân tích Chi phí và Phân tích Sản xuất\n"
 
 #. module: base
 #: model:ir.module.module,description:base.module_hr_contract_reports
@@ -3659,7 +3655,7 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Cho phép khách hàng Lên lịch Cuộc hẹn thông qua Trang web của bạn\n"
+"Cho phép khách hàng Lên lịch hẹn thông qua Trang web của bạn\n"
 "-------------------------------------------------- -----------\n"
 "\n"
 
@@ -3739,7 +3735,7 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Cho phép tạo lead từ Cuộc hẹn đã Lên lịch thông qua Trang web của bạn\n"
+"Cho phép tạo lead từ Lịch hẹn đã Lên lịch thông qua Trang web của bạn\n"
 "-----------------------------------------------------------------------\n"
 "\n"
 
@@ -4106,7 +4102,7 @@ msgstr ""
 "\n"
 "Báo cáo hàng năm về các khoản thanh toán chịu thuế (TPAR) cho phép:\n"
 "\n"
-"• Các khoản thanh toán cho nhà thầu (hoặc nhà thầu phụ) cho các dịch vụ, hoặc\n"
+"• Các khoản thanh toán cho nhà thầu (hoặc đơn vị gia công) cho các dịch vụ, hoặc\n"
 "• Các khoản tài trợ do cơ quan chính phủ trả cho những người nắm giữ ABN\n"
 "\n"
 "sẽ được báo cáo khi được yêu cầu theo Hệ thống Báo cáo các Khoản Thanh toán chịu Thuế (TPRS) và biện pháp báo cáo các Khoản Trợ cấp và Thanh toán Chịu thuế của Chính phủ.\n"
@@ -5617,7 +5613,7 @@ msgid ""
 "country and detailed information like pages browsed by the lead (through a link to website visitor).\n"
 msgstr ""
 "\n"
-"Gia tăng lead được tạo tự động thông qua cuộc hẹn với thông tin khách truy cập trang web được thu thập như ngôn ngữ, \n"
+"Gia tăng lead được tạo tự động thông qua lịch hẹn với thông tin khách truy cập trang web được thu thập như ngôn ngữ, \n"
 "quốc gia và thông tin chi tiết chẳng hạn các trang mà lead đã truy cập (thông qua liên kết đến khách truy cập trang web).\n"
 
 #. module: base
@@ -10159,7 +10155,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Phân hệ này cho phép người dùng xác định các đơn đặt hàng thầu phụ một cách dễ dàng hơn khi áp dụng chi phí thu mua hàng hóa,\n"
+"Phân hệ này cho phép người dùng xác định các đơn đặt hàng gia công một cách dễ dàng hơn khi áp dụng chi phí thu mua hàng hóa,\n"
 "bằng cách hiển thị tham chiếu lấy hàng liên quan trong chế độ xem tìm kiếm.\n"
 "    "
 
@@ -11069,7 +11065,7 @@ msgid ""
 "======================================\n"
 msgstr ""
 "\n"
-"Xác thực dịch chuyển tồn kho cho Dịch vụ Hiện trường\n"
+"Xác thực điều chuyển tồn kho cho Dịch vụ Hiện trường\n"
 "======================================\n"
 
 #. module: base
@@ -13335,7 +13331,7 @@ msgstr "Kế toán - Sản xuất"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mrp_subcontracting_account_enterprise
 msgid "Accounting - MRP Subcontracting"
-msgstr "Kế toán - Hợp đồng phụ Sản xuất"
+msgstr "Kế toán - Gia công Sản xuất"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_sale_timesheet_account_budget
@@ -13639,7 +13635,7 @@ msgid ""
 "Add Subcontracting information in Cost Analysis Reports and Production "
 "Analysis"
 msgstr ""
-"Bổ sung Thông tin Thầu phụ trong Báo cáo Phân tích Chi phí và Phân tích Sản "
+"Bổ sung Thông tin Gia công trong Báo cáo Phân tích Chi phí và Phân tích Sản "
 "xuất"
 
 #. module: base
@@ -14125,7 +14121,7 @@ msgstr "Các tính năng nâng cao cho stock_account"
 msgid "Advanced views to manage landed cost for subcontracting orders"
 msgstr ""
 "Chế độ xem nâng cao để quản lý chi phí thu mua hàng hóa cho các đơn đặt hàng"
-" hợp đồng phụ"
+" gia công"
 
 #. module: base
 #: model:ir.model.fields.selection,name:base.selection__ir_module_module__license__agpl-3
@@ -14265,7 +14261,7 @@ msgstr "Cho phép tích hợp với các plugin thư."
 #. module: base
 #: model:ir.module.module,summary:base.module_stock_barcode_mrp_subcontracting
 msgid "Allows the subcontracting process with the barcode views"
-msgstr "Cho phép chế độ xem mã vạch với quy trình hợp đồng phụ"
+msgstr "Cho phép chế độ xem mã vạch với quy trình gia công"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_stock_barcode_quality_control
@@ -14589,23 +14585,23 @@ msgstr "Áp dụng cho Sửa"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_appointment_crm
 msgid "Appointment Lead Generation"
-msgstr "Tạo Lead Cuộc hẹn"
+msgstr "Tạo Lead Lịch hẹn"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_appointment_sms
 msgid "Appointment SMS"
-msgstr "SMS Cuộc hẹn"
+msgstr "SMS Lịch hẹn"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_test_appointment_full
 #: model:ir.module.module,summary:base.module_test_appointment_full
 msgid "Appointment Testing Module"
-msgstr "Phân hệ Kiểm thử Cuộc hẹn"
+msgstr "Phân hệ Kiểm thử Lịch hẹn"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_appointment
 msgid "Appointments"
-msgstr "Cuộc hẹn"
+msgstr "Lịch hẹn"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_hr_appraisal_skills
@@ -15866,7 +15862,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,description:base.module_mrp_subcontracting_enterprise
 msgid "Bridge module for MRP subcontracting and enterprise"
-msgstr "Phân hệ cầu nối cho hợp đồng phụ Sản xuất và doanh nghiệp"
+msgstr "Phân hệ cầu nối cho gia công Sản xuất và doanh nghiệp"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mrp_subcontracting_enterprise
@@ -15874,20 +15870,20 @@ msgid ""
 "Bridge module for MRP subcontracting and enterprise to avoid some conflicts "
 "with studio"
 msgstr ""
-"Phân hệ cầu nối cho hợp đồng phụ Sản xuất và doanh nghiệp để tránh một số "
-"xung đột với studio"
+"Phân hệ cầu nối cho gia công Sản xuất và doanh nghiệp để tránh một số xung "
+"đột với studio"
 
 #. module: base
 #: model:ir.module.module,description:base.module_mrp_subcontracting_studio
 msgid "Bridge module for MRP subcontracting and studio"
-msgstr "Phân hệ cầu nối cho hợp đồng phụ Sản xuất và studio"
+msgstr "Phân hệ cầu nối cho gia công Sản xuất và studio"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mrp_subcontracting_studio
 msgid ""
 "Bridge module for MRP subcontracting and studio to avoid some conflicts"
 msgstr ""
-"Phân hệ cầu nối cho thầu phụ Sản xuất và studio để tránh một số xung đột"
+"Phân hệ cầu nối cho gia công Sản xuất và studio để tránh một số xung đột"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_website_sale_comparison_wishlist
@@ -19089,7 +19085,7 @@ msgstr "Menu thả xuống"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mrp_subcontracting_dropshipping
 msgid "Dropship and Subcontracting Management"
-msgstr "Quản lý Hợp đồng phụ và Bán hàng Trung gian"
+msgstr "Quản lý Gia công và Bán hàng Trung gian"
 
 #. module: base
 #. odoo-python
@@ -19526,7 +19522,7 @@ msgstr "Nhân viên trên Thiết bị Di động"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_appointment_hr
 msgid "Employees on Appointments"
-msgstr "Nhân viên trên Cuộc hẹn"
+msgstr "Nhân viên trên Lịch hẹn"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mrp_workorder_hr
@@ -19583,7 +19579,7 @@ msgstr "Bật cấu hình cho đến khi"
 #. module: base
 #: model:ir.module.module,description:base.module_appointment_sms
 msgid "Enable sending appointment reminders via SMS to your clients."
-msgstr "Cho phép gửi lời nhắc cuộc hẹn qua SMS cho khách hàng của bạn."
+msgstr "Cho phép gửi lời nhắc lịch hẹn qua SMS cho khách hàng của bạn."
 
 #. module: base
 #: model:ir.module.category,description:base.module_category_human_resources_contracts
@@ -19608,7 +19604,7 @@ msgid ""
 "Enrich lead created automatically through an appointment with gathered "
 "website visitor information"
 msgstr ""
-"Làm phong phú lead bằng cách tạo tự động thông qua một cuộc hẹn với thông "
+"Làm phong phú lead bằng cách tạo tự động thông qua một lịch hẹn với thông "
 "tin khách truy cập trang web được thu thập"
 
 #. module: base
@@ -23793,7 +23789,7 @@ msgstr "Chi phí Mua hàng trong MO"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mrp_subonctracting_landed_costs
 msgid "Landed Costs With Subcontracting order"
-msgstr "Chi phí Mua hàng với đơn hàng Thầu phụ"
+msgstr "Chi phí Mua hàng với đơn hàng Gia công"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mrp_landed_costs
@@ -24578,22 +24574,22 @@ msgstr "Dự án MRP"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mrp_subcontracting_enterprise
 msgid "MRP Subcontracting Enterprise"
-msgstr "Doanh nghiệp thầu phụ MRP"
+msgstr "Doanh nghiệp gia công MRP"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mrp_subcontracting_quality
 msgid "MRP Subcontracting Quality"
-msgstr "Chất lượng hợp đồng phụ của MRP"
+msgstr "Chất lượng gia công của MRP"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mrp_subcontracting_repair
 msgid "MRP Subcontracting Repair"
-msgstr "Sửa chữa hợp đồng phụ MRP"
+msgstr "Sửa chữa gia công MRP"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mrp_subcontracting_studio
 msgid "MRP Subcontracting Studio"
-msgstr "Thầu phụ của MRP"
+msgstr "Gia công của MRP"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mrp_workorder_expiry
@@ -24773,7 +24769,7 @@ msgstr "Malta"
 #. module: base
 #: model:ir.module.module,summary:base.module_appointment_hr
 msgid "Manage Appointments with Employees"
-msgstr "Quản lý Cuộc hẹn với Nhân viên"
+msgstr "Quản lý Lịch hẹn với Nhân viên"
 
 #. module: base
 #: model_terms:ir.actions.act_window,help:base.action_partner_title_contact
@@ -28679,7 +28675,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.category,name:base.module_category_marketing_online_appointment
 msgid "Online Appointment"
-msgstr "Cuộc hẹn online"
+msgstr "Lịch hẹn online"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_account_online_synchronization
@@ -30906,7 +30902,7 @@ msgstr "Mua hàng và SX mua hàng"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mrp_subcontracting_purchase
 msgid "Purchase and Subcontracting Management"
-msgstr "Quản lý mua hàng và hợp đồng phụ"
+msgstr "Quản lý mua hàng và gia công"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_purchase_enterprise
@@ -31549,7 +31545,7 @@ msgstr "Tập tin báo cáo"
 #. module: base
 #: model:ir.model.fields,field_description:base.field_res_company__report_footer
 msgid "Report Footer"
-msgstr "Lề dưới báo cáo"
+msgstr "Footer báo cáo"
 
 #. module: base
 #: model:ir.model,name:base.model_report_layout
@@ -32852,7 +32848,7 @@ msgstr "Thiết lập dữ liệu công ty"
 #. module: base
 #: model_terms:ir.ui.view,arch_db:base.onboarding_company_step
 msgid "Set your company's data for documents header/footer."
-msgstr "Thiết lập dữ liệu công ty để hiển thị ở lề trên và lề dưới tài liệu."
+msgstr "Thiết lập dữ liệu công ty để hiển thị ở header và footer tài liệu."
 
 #. module: base
 #: model:ir.model.fields,help:base.field_ir_actions_act_url__binding_model_id
@@ -33769,7 +33765,7 @@ msgstr "Gia công ngoài sản xuất"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_stock_barcode_mrp_subcontracting
 msgid "Subcontract with Barcode"
-msgstr "Hợp đồng phụ với mã vạch"
+msgstr "Gia công với mã vạch"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mrp_subcontracting_account
@@ -34370,6 +34366,17 @@ msgid "The \"App Switcher\" action cannot be selected as home action."
 msgstr ""
 "Không thể chọn hành động \"Trình Chuyển đổi Ứng dụng\" làm hành động trang "
 "chủ."
+
+#. module: base
+#. odoo-python
+#: code:addons/base/models/res_users.py:0
+#, python-format
+msgid ""
+"The action \"%s\" cannot be set as the home action because it requires a "
+"record to be selected beforehand."
+msgstr ""
+"Không thể thiết lập tác vụ \"%s\" làm tác vụ trang chủ vì nó yêu cầu phải "
+"chọn trước một bản ghi."
 
 #. module: base
 #: model:ir.model.fields,help:base.field_res_country__code
@@ -36068,17 +36075,17 @@ msgstr "Tunisia"
 
 #. module: base
 #: model:res.country,name:base.tr
-msgid "Turkey"
-msgstr "Thổ Nhĩ Kỳ"
+msgid "Türkiye"
+msgstr "Türkiye"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_l10n_tr
-msgid "Turkey - Accounting"
+msgid "Türkiye - Accounting"
 msgstr "Thổ Nhĩ Kỳ - Kế toán"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_l10n_tr_reports
-msgid "Turkey - Accounting Reports"
+msgid "Türkiye - Accounting Reports"
 msgstr "Thổ Nhĩ Kỳ - Báo cáo kế toán"
 
 #. module: base
@@ -36679,7 +36686,7 @@ msgstr "Sử dụng các thiết bị IoT trong hoạt động giao hàng"
 #. module: base
 #: model:ir.module.module,summary:base.module_appointment_sms
 msgid "Use SMS reminders for appointment meetings"
-msgstr "Sử dụng lời nhắc SMS cho các cuộc họp cuộc hẹn"
+msgstr "Sử dụng lời nhắc SMS cho các cuộc họp lịch hẹn"
 
 #. module: base
 #: model:ir.model.fields,help:base.field_res_partner__barcode
@@ -37478,12 +37485,12 @@ msgstr "Trang web - Thanh toán Paypal"
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_website_appointment_crm
 msgid "Website Appointment Lead Enrichment"
-msgstr "Làm giàu khách hàng tiềm năng về cuộc hẹn trên trang web"
+msgstr "Làm giàu khách hàng tiềm năng về lịch hẹn trên trang web"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_website_appointment
 msgid "Website Appointments"
-msgstr "Cuộc hẹn trên trang web"
+msgstr "Lịch hẹn trên trang web"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_website_enterprise

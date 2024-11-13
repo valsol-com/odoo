@@ -1160,7 +1160,7 @@ class HrExpenseSheet(models.Model):
     def write(self, vals):
         if 'state' in vals:
             # Avoid user with write access on expense sheet in draft state to bypass the validation process
-            if not self.user_has_groups('hr_expense.group_hr_expense_manager') and self.state == 'draft' and vals['state'] != 'submit':
+            if vals['state'] != 'submit' and not self.user_has_groups('hr_expense.group_hr_expense_manager') and any(e.state == 'draft' for e in self):
                 raise UserError(_("You don't have the rights to bypass the validation process of this expense report."))
             elif vals['state'] == 'approve':
                 self._check_can_approve()
@@ -1212,8 +1212,11 @@ class HrExpenseSheet(models.Model):
         if any(sheet.state != 'approve' for sheet in self):
             raise UserError(_("You can only generate accounting entry for approved expense(s)."))
 
-        if any(not sheet.journal_id for sheet in self):
-            raise UserError(_("Specify expense journal to generate accounting entries."))
+        if any(not sheet.journal_id for sheet in self if sheet.payment_mode == 'own_account'):
+            raise UserError(_("Please specify an expense journal in order to generate accounting entries."))
+
+        if any(not sheet.bank_journal_id for sheet in self if sheet.payment_mode == 'company_account'):
+            raise UserError(_("Please specify a bank journal in order to generate accounting entries."))
 
         if not self.employee_id.sudo().address_home_id:
             raise UserError(_("The private address of the employee is required to post the expense report. Please add it on the employee form."))
